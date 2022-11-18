@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) {
 
         Queue<Integer> queue = new QueueLinkedList<>();
+        Queue<Integer> queue2 = new QueueLinkedList<>();
         queue.isEmpty();
         //TODO: testar implementação
 
