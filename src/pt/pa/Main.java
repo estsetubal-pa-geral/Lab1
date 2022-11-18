@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 
         Queue<Integer> queue = new QueueLinkedList<>();
-
+        queue.isEmpty();
         //TODO: testar implementação
 
     }

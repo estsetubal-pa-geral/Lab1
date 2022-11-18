@@ -6,7 +6,7 @@ package pt.pa.adts;
  * @param <E>
  */
 public interface Queue<E> {
-
+    boolean isEmpty();
     //TODO: definir operações do ADT e documentá-las
 
 }
